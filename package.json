@@ -1,0 +1,23 @@
+{
+    "name": "MEAN Auth",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+
+
+    },
+    "license": "ISC",
+    "devDependencies": {
+
+    },
+    "dependencies": {
+        "bcrypt": "^0.8.7",
+        "body-parser": "^1.15.2",
+        "express": "^4.14.0",
+        "express-jwt": "^3.4.0",
+        "jsonwebtoken": "^7.1.6",
+        "mongoose": "^4.5.7",
+        "morgan": "^1.7.0"
+    }
+}
